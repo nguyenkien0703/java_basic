@@ -4,11 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b43306c-68b6-476d-b9a6-a436e9d48fc9" name="Changes" comment="" />
+    <list default="true" id="4b43306c-68b6-476d-b9a6-a436e9d48fc9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/VNOI/subhackerrank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/kethua/kethuajava/bai4/Main4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/kethua/kethuajava/bai4/Person4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/kethua/kethuajava/bai4/Student4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/kethua/kethuajava/bai4/Teacher4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/kethua/kethuajava/bai9/Main9.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/kethua/kethuajava/bai9/Main9.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -18,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2CKnmEMe4UQMkeIhTgiEdQQ1Y6w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
